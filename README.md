@@ -22,7 +22,7 @@ Serverless 部署推荐使用 [MongoDB Atlas](https://www.mongodb.com/atlas) 免
 
 #### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FFlapyPan%2Fflapypan-blog#MONGODB_URI=&ADMIN_USERNAME=&ADMIN_PASSWORD=&AUTH_SECRET=)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ykexc/flapypan-blog)
 
 #### AWS Amplify
 

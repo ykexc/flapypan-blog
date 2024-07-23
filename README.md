@@ -12,7 +12,7 @@
 
 ### Serverless 部署
 
-请注意配置必要的环境变量，可参考：[.env.example](.env.example)
+请注意配置必要的环境变量，可参考：[.env.example](.env)
 
 Serverless 部署推荐使用 [MongoDB Atlas](https://www.mongodb.com/atlas) 免费数据库
 
@@ -30,7 +30,7 @@ Serverless 部署推荐使用 [MongoDB Atlas](https://www.mongodb.com/atlas) 免
 
 ### 自主部署
 
-`.env` 配置文件参考：[.env.example](.env.example)
+`.env` 配置文件参考：[.env.example](.env)
 
 #### Node.js
 
